@@ -30,3 +30,12 @@ venv/
 # Test-generated temporary output
 test-results/
 playwright-report/
+
+
+
+# Playwright secrets and generated files
+playwright/.env
+playwright/node_modules/
+playwright/test-results/
+playwright/playwright-report/
+playwright/blob-report/
