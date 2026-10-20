@@ -1,4 +1,4 @@
-# AbleSpace — QA Testing Assessment
+# AbleSpace - QA Testing Assessment
 
 Manual QA assessment of the AbleSpace staging web application, covering core functionality, exploratory testing, input validation, navigation, UI behavior, and browser compatibility.
 
